@@ -1,8 +1,9 @@
+
 {
-    "owner": {
-        "username": "chjawad1"
-    },
-    "records": {
-        "CNAME": "Jawad-Portfolio.com"
-    }
+  "owner": {
+    "username": "chjawad1"
+  },
+  "records": {
+    "A": ["216.198.79.1"]
+  }
 }
